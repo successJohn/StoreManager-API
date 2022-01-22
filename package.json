@@ -1,0 +1,15 @@
+{
+  "name": "storemanager-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "userModel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Success John",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  }
+}
